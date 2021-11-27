@@ -1,2 +1,18 @@
-# BOTS-BUILDER
-Config files for my GitHub profile.
+# BOTS-REPOSITORY-LINKS
+
+## 1 QUEEN AMDI
+
+
+
+
+## 2 PINKY
+
+
+
+
+## 3 ZARA MWOL
+
+
+
+
+## 4 RAGANORK 
