@@ -1,18 +1,18 @@
 # BOTS REPOSITORIES
 
-🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
+🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
 |---
 
 
-## 1. QueenAmdi Bot
+## 1. Pinky Bot
 
-https://github.com/BlackAmda/QueenAmdi
+https://github.com/afnanplk/Pinky
 
 ---
 
-## 2. Pinky Bot
+## 2. WhatsAlexa Bot
 
-https://github.com/afnanplk/Pinky
+https://github.com/TOXIC-DEVIL/WhatsAlexa
 
 ---
 
@@ -40,11 +40,6 @@ https://github.com/farhan-dqz/Julie-Mwol
 
 ---
 
-## 7. Sew-Queen Bot
-
-https://github.com/ravindu01manoj/Sew-Queen
-
----
 
 ~~~
  More Bots Coming Soon
