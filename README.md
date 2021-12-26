@@ -40,6 +40,11 @@ https://github.com/farhan-dqz/Julie-Mwol
 
 ---
 
+## 7. Wizard-Ser Bot
+
+https://github.com/Ajmal-Achu/Wizard-Ser
+
+---
 
 ~~~
  More Bots Coming Soon
