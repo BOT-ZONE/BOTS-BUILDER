@@ -1,8 +1,9 @@
 # BOTS REPOSITORIES
 
-🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀
-|---
 
+[![SETUP](https://www.linkpicture.com/q/318848_website-logo-png.png)](https://github.com/BOT-ZONE)
+|---
+  
 
 ## 1. Pinky Bot
 
