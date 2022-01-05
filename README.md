@@ -47,6 +47,12 @@ https://github.com/Ajmal-Achu/Wizard-Ser
 
 ---
 
+## 8. pikachu Bot
+
+https://github.com/ameer-kallumthodi/pikachu
+
+---
+
 ~~~
  More Bots Coming Soon
 ~~~
