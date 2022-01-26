@@ -11,9 +11,9 @@ https://github.com/afnanplk/Pinky
 
 ---
 
-## 2. WhatsAlexa Bot
+## 2. Bosco Bot
 
-https://github.com/TOXIC-DEVIL/WhatsAlexa
+https://github.com/pepesir/Bosco
 
 ---
 
