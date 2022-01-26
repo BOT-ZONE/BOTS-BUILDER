@@ -51,6 +51,10 @@ https://github.com/Ajmal-Achu/Wizard-Ser
 
 https://github.com/ameer-kallumthodi/pikachu
 
+## 9. LIZA-MWOL Bot
+
+https://github.com/Chunkindepadayali/LIZA-MWOL
+
 ---
 
 ~~~
